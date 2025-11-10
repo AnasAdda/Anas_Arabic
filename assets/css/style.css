@@ -47,7 +47,7 @@
   --bg-black-color: #000000;         /* أسود */
   --bg-light-dark-color: #1A1A1A;    /* رمادي داكن */
   --border-color: #E5D9B6;           /* ذهبي فاتح للحدود */
-  --rubik-fonts: 'Rubik', sans-serif;
+  --Tajawal-fonts: 'Tajawal', sans-serif;
   --body-font-size: 1.4rem;
   --body-font-weight: 400;
   --body-line-height: 2.5rem;
@@ -82,7 +82,7 @@ body {
 }
 
 body {
-  font-family: var(--rubik-fonts);
+  font-family: var(--Tajawal-fonts);
   font-size: var(--body-font-size, 1.4rem);
   font-weight: var(--body-font-weight);
   font-style: normal;
@@ -126,7 +126,7 @@ h6,
 .h6 {
   font-weight: 500;
   margin: 0;
-  font-family: var(--rubik-fonts);
+  font-family: var(--Tajawal-fonts);
 }
 
 h1,
